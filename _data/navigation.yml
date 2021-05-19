@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "教师介绍"
       section: timeline
-    - title: "我们的社员"
+    - title: "我们的团队"
       section: team
     - title: "联系我们"
       section: contact
